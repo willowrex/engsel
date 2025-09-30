@@ -25,9 +25,9 @@
         ]
     },
     {
-        "name": "test",
+        "name": "Testing",
         "price": "Rp1000",
-        "detail": "Support E-Wallet & QRIS.\nHanya bisa dibeli kalau punya XCP/XCVP tertentu.\nTidak akumulasi, beli ulang jika sudah habis.\nMasa aktif mengikuti.",
+        "detail": "Support E-Wallet & QRIS.\nHanya bisa dibeli kalau punya XCP/XCVP tertentu.\nTidak akumulasi, beli ulang jika sudah habis.\nMasa aktif mengikuti paket XCP/XCVP.",
         "packages": [
             {
                 "family_name": "Xtra Combo Flex - Latest",
@@ -48,6 +48,5 @@
                 "order": 6
             }
         ]
-    },
-
+    }
 ]
