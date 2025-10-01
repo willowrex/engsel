@@ -39,15 +39,6 @@
                 "order": 1
             },
             {
-                "family_name": "Xtra Combo Flex - SP After",
-                "family_code": "ccb162e6-b7cf-4162-8e3f-662e67cbb4cb",
-                "is_enterprise": false,
-                "variant_name": "Xtra Combo Flex",
-                "variant_code": "7b1fb444-0da1-4a2e-af34-2e944ce9467b",
-                "option_name": "SP 500MB, 30hr",
-                "order": 8
-            },
-            {
                 "family_name": "Work & School",
                 "family_code": "5d63dddd-4f90-4f4c-8438-2f005c20151f",
                 "is_enterprise": false,
