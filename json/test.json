@@ -59,8 +59,8 @@
         ]
     },
     {
-        "name": "biz",
-        "price": "Rp3500",
+        "name": "mini",
+        "price": "Rp18750",
         "detail": "Membuat masa aktif menjadi 45 hari dari tanggal pembelian. Tidak bisa akumulasi.\nSupport E-Wallet & QRIS.\nSaldo akan di-refund setelah 10-30 menit.\nPastikan metode scan QRIS support refund.",
         "packages": [
             {
@@ -73,12 +73,12 @@
                 "order": 1
             },
             {
-                "family_name": "BIZ Manufacture",
-                "family_code": "f3303d95-8454-4e80-bb25-38513d358a11",
-                "is_enterprise": true,
-                "variant_name": "BIZ Manufacture",
-                "variant_code": "3f81d8a3-9d11-4c5c-8c79-c295802746dc",
-                "option_name": "BIZ Lite",
+                "family_name": "Xtra Combo Mini",
+                "family_code": "ad176860-49d4-4bdd-9161-ab38dc6a631b",
+                "is_enterprise": false,
+                "variant_name": "7 Days",
+                "variant_code": "f1aa3f72-9c07-4ec6-a04d-fc018c233255",
+                "option_name": "11.5GB",
                 "order": 1
             }
         ]
