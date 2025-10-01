@@ -25,18 +25,27 @@
         ]
     },
     {
-        "name": "Add On Youtube 24GB (Gandengan Xtra Combo)",
+        "name": "Kouta 500mb",
         "price": "Rp1000",
-        "detail": "Support E-Wallet & QRIS.\nHanya bisa dibeli kalau punya XCP/XCVP tertentu.\nTidak akumulasi, beli ulang jika sudah habis.\nMasa aktif mengikuti paket XCP/XCVP.",
+        "detail": "Membuat masa aktif menjadi 45 hari dari tanggal pembelian. Tidak bisa akumulasi.\nSupport E-Wallet & QRIS.\nSaldo akan di-refund setelah 10-30 menit.\nPastikan metode scan QRIS support refund.",
         "packages": [
             {
-                "family_name": "Apps Quota Xtra Combo Plus 2GB",
-                "family_code": "580c1f94-7dc4-416e-96f6-8faf26567516",
+                "family_name": "Kuota Bersama",
+                "family_code": "d018a3ad-172f-433c-b291-f574f4b6fbad",
                 "is_enterprise": false,
-                "migration_type": "NONE",
-                "variant_code": "b50f954a-696e-46d0-8700-8e4d38521525",
-                "option_name": "YouTube 26GB",
-                "order": 6
+                "variant_name": "Kuota Bersama",
+                "variant_code": "8a5965c2-d29c-48aa-8175-0ef53745d8fa",
+                "option_name": "Kuota HP Sekeluarga 50GB",
+                "order": 1
+            },
+            {
+                "family_name": "Xtra Combo Flex - SP After",
+                "family_code": "ccb162e6-b7cf-4162-8e3f-662e67cbb4cb",
+                "is_enterprise": false,
+                "variant_name": "Xtra Combo Flex",
+                "variant_code": "7b1fb444-0da1-4a2e-af34-2e944ce9467b",
+                "option_name": "SP 500MB, 30hr",
+                "order": 8
             },
             {
                 "family_name": "Work & School",
@@ -47,8 +56,8 @@
                 "option_name": "Education 2GB",
                 "order": 6
             }
-        ]
-    },
+        ],
+    }
     {
         "name": "Masa Aktif 45 Hari",
         "price": "Rp10000 (refund)",
