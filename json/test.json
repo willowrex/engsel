@@ -134,7 +134,7 @@
         ]
     },
     {
-        "name": "Masa Aktif 30 Hari + 500MB",
+        "name": "Masa Aktif 30 Hari + 100MB VIP",
         "price": "Rp0",
         "detail": "Membuat masa aktif menjadi 30 hari dari tanggal pembelian. Tidak bisa akumulasi.\nSupported payment: Balance.\nJangan di-overwrite.",
         "packages": [
@@ -142,19 +142,19 @@
                 "family_name": "Xtra Combo Flex - SP After",
                 "family_code": "ccb162e6-b7cf-4162-8e3f-662e67cbb4cb",
                 "is_enterprise": false,
-                "variant_name": "Xtra Combo Flex",
+                "migration_type": "NONE",
                 "variant_code": "7b1fb444-0da1-4a2e-af34-2e944ce9467b",
-                "option_name": "SP 500MB, 30hr",
-                "order": 8
+                "option_name": "Paket Pelanggan Baru 100MB",
+                "order": 1
             },
             {
                 "family_name": "Xtra Combo Plus",
                 "family_code": "23b71540-8785-4abe-816d-e9b4efa48f95",
                 "is_enterprise": false,
-                "migration_type": "NONE",
-                "variant_code": "8862ec0a-4651-423b-b733-3a9608db34fa",
-                "option_name": "69GB",
-                "order": 19
+                "variant_name": "VIP",
+                "variant_code": "a5ba3e30-1f34-457f-82e7-976152427a7e",
+                "option_name": "VIP 143GB",
+                "order": 7
             }
         ]
     },
