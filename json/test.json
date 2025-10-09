@@ -1,3 +1,4 @@
+
 [
     {
         "name": "xcp",
@@ -26,7 +27,7 @@
     },
     {
         "name": "conference 15gb",
-        "price": "Rp15000",
+        "price": "Rp10000",
         "detail": "Support E-Wallet & QRIS.\nHanya bisa dibeli kalau punya XCP/XCVP tertentu.\nTidak akumulasi, beli ulang jika sudah habis.\nMasa aktif mengikuti paket XCP/XCVP.",
         "packages": [
             {
@@ -51,7 +52,7 @@
     },
     {
         "name": "conference 5gb+2gb",
-        "price": "Rp1000",
+        "price": "Rp6000",
         "detail": "Membuat masa aktif menjadi 45 hari dari tanggal pembelian. Tidak bisa akumulasi.\nSupport E-Wallet & QRIS.\nSaldo akan di-refund setelah 10-30 menit.\nPastikan metode scan QRIS support refund.",
         "packages": [
             {
@@ -80,31 +81,6 @@
                 "variant_code": "5b59c55b-0dc7-4f34-a6e9-6afa233ad53b",
                 "option_name": "Video Conference 2GB",
                 "order": 3
-            }
-        ]
-    },
-    {
-        "name": "biz",
-        "price": "Rp3500",
-        "detail": "Membuat masa aktif menjadi 45 hari dari tanggal pembelian. Tidak bisa akumulasi.\nSupport E-Wallet & QRIS.\nSaldo akan di-refund setelah 10-30 menit.\nPastikan metode scan QRIS support refund.",
-        "packages": [
-            {
-                "family_name": "Kuota Bersama",
-                "family_code": "d018a3ad-172f-433c-b291-f574f4b6fbad",
-                "is_enterprise": false,
-                "variant_name": "Kuota Bersama",
-                "variant_code": "8a5965c2-d29c-48aa-8175-0ef53745d8fa",
-                "option_name": "Kuota HP Sekeluarga 50GB",
-                "order": 2
-            },
-            {
-                "family_name": "BIZ Manufacture",
-                "family_code": "f3303d95-8454-4e80-bb25-38513d358a11",
-                "is_enterprise": true,
-                "variant_name": "BIZ Manufacture",
-                "variant_code": "3f81d8a3-9d11-4c5c-8c79-c295802746dc",
-                "option_name": "BIZ Lite",
-                "order": 1
             }
         ]
     }
