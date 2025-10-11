@@ -1,0 +1,212 @@
+[
+    {
+        "name": "Hyfe 5GB 7 hari",
+        "price": "Rp 0",
+        "detail": "Hyfe trial Fup 5GB masa aktif 7 hari. Bisa akumulasi.\nDWYOR\nSupported payment: Balance.",
+        "packages": [
+            {
+                "family_name": "myPRIO X Unlimited",
+                "family_code": "162d261b-05c7-450c-9b7a-1873b160140c",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "abf19c56-c4a8-4acd-9810-83dc7c439176",
+                "option_name": "JANGAN DI TEST PURCHASE",
+                "order": 27
+            },
+            {
+                "family_name": "",
+                "family_code": "0895946e-d277-4218-914c-b663c09debf7",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "499a606a-15bf-4b50-ba66-deb866fb4b35",
+                "option_name": "",
+                "order": 5
+            }
+        ],
+        "payment_for": "BUY_PACKAGE",
+        "ask_overwrite": false,
+        "overwrite_amount": 73000,
+        "token_confirmation_idx": 0,
+        "amount_idx": -1
+    },
+    {
+        "name": "Hyfe 50GB",
+        "price": "Rp 0",
+        "detail": "Hyfe Fup 50GB masa aktif 30 hari. Bisa akumulasi.\nDWYOR\nSupported payment: Balance.",
+        "packages": [
+            {
+                "family_name": "myPRIO X Unlimited",
+                "family_code": "162d261b-05c7-450c-9b7a-1873b160140c",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "abf19c56-c4a8-4acd-9810-83dc7c439176",
+                "option_name": "JANGAN DI TEST PURCHASE",
+                "order": 24
+            },
+            {
+                "family_name": "",
+                "family_code": "0895946e-d277-4218-914c-b663c09debf7",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "499a606a-15bf-4b50-ba66-deb866fb4b35",
+                "option_name": "",
+                "order": 5
+            }
+        ],
+        "payment_for": "BUY_PACKAGE",
+        "ask_overwrite": false,
+        "overwrite_amount": 163000,
+        "token_confirmation_idx": 0,
+        "amount_idx": -1
+    },
+    {
+        "name": "Hyfe 100GB",
+        "price": "Rp 0",
+        "detail": "Hyfe Fup 100GB masa aktif 30 hari. Bisa akumulasi.\nDWYOR\nSupported payment: Balance.",
+        "packages": [
+            {
+                "family_name": "myPRIO X Unlimited",
+                "family_code": "162d261b-05c7-450c-9b7a-1873b160140c",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "abf19c56-c4a8-4acd-9810-83dc7c439176",
+                "option_name": "JANGAN DI TEST PURCHASE",
+                "order": 23
+            },
+            {
+                "family_name": "",
+                "family_code": "0895946e-d277-4218-914c-b663c09debf7",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "499a606a-15bf-4b50-ba66-deb866fb4b35",
+                "option_name": "",
+                "order": 5
+            }
+        ],
+        "payment_for": "BUY_PACKAGE",
+        "ask_overwrite": false,
+        "overwrite_amount": 213000,
+        "token_confirmation_idx": 0,
+        "amount_idx": -1
+    },
+    {
+        "name": "Hyfe 200GB",
+        "price": "Rp 0",
+        "detail": "Hyfe Fup 200GB masa aktif 30 hari. Bisa akumulasi.\nDWYOR\nSupported payment: Balance.",
+        "packages": [
+            {
+                "family_name": "myPRIO X Unlimited",
+                "family_code": "162d261b-05c7-450c-9b7a-1873b160140c",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "abf19c56-c4a8-4acd-9810-83dc7c439176",
+                "option_name": "JANGAN DI TEST PURCHASE",
+                "order": 22
+            },
+            {
+                "family_name": "",
+                "family_code": "0895946e-d277-4218-914c-b663c09debf7",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "499a606a-15bf-4b50-ba66-deb866fb4b35",
+                "option_name": "",
+                "order": 5
+            }
+        ],
+        "payment_for": "BUY_PACKAGE",
+        "ask_overwrite": false,
+        "overwrite_amount": 263000,
+        "token_confirmation_idx": 0,
+        "amount_idx": -1
+    },
+    {
+        "name": "myPRIO Silver X 3bln",
+        "price": "Rp 0",
+        "detail": "myPRIO Silver X 3bln masa aktif 3 bulan. Bisa akumulasi.\nDWYOR\nSupported payment: Balance.",
+        "packages": [
+            {
+                "family_name": "myPRIO X Unlimited",
+                "family_code": "162d261b-05c7-450c-9b7a-1873b160140c",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "abf19c56-c4a8-4acd-9810-83dc7c439176",
+                "option_name": "JANGAN DI TEST PURCHASE",
+                "order": 30
+            },
+            {
+                "family_name": "",
+                "family_code": "0895946e-d277-4218-914c-b663c09debf7",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "499a606a-15bf-4b50-ba66-deb866fb4b35",
+                "option_name": "",
+                "order": 5
+            }
+        ],
+        "payment_for": "BUY_PACKAGE",
+        "ask_overwrite": false,
+        "overwrite_amount": 373000,
+        "token_confirmation_idx": 0,
+        "amount_idx": -1
+    },
+    {
+        "name": "myPRIO Silver X 6bln",
+        "price": "Rp 0",
+        "detail": "myPRIO Silver X 6bln masa aktif 6 bulan. Bisa akumulasi.\nDWYOR\nSupported payment: Balance.",
+        "packages": [
+            {
+                "family_name": "myPRIO X Unlimited",
+                "family_code": "162d261b-05c7-450c-9b7a-1873b160140c",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "abf19c56-c4a8-4acd-9810-83dc7c439176",
+                "option_name": "JANGAN DI TEST PURCHASE",
+                "order": 35
+            },
+            {
+                "family_name": "",
+                "family_code": "0895946e-d277-4218-914c-b663c09debf7",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "499a606a-15bf-4b50-ba66-deb866fb4b35",
+                "option_name": "",
+                "order": 5
+            }
+        ],
+        "payment_for": "BUY_PACKAGE",
+        "ask_overwrite": false,
+        "overwrite_amount": 553000,
+        "token_confirmation_idx": 0,
+        "amount_idx": -1
+    },
+    {
+        "name": "myPRIO Silver X 12bln",
+        "price": "Rp 0",
+        "detail": "myPRIO Silver X 12bln masa aktif 1 tahun. Bisa akumulasi.\nDWYOR\nSupported payment: Balance.",
+        "packages": [
+            {
+                "family_name": "myPRIO X Unlimited",
+                "family_code": "162d261b-05c7-450c-9b7a-1873b160140c",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "abf19c56-c4a8-4acd-9810-83dc7c439176",
+                "option_name": "JANGAN DI TEST PURCHASE",
+                "order": 40
+            },
+            {
+                "family_name": "",
+                "family_code": "0895946e-d277-4218-914c-b663c09debf7",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "499a606a-15bf-4b50-ba66-deb866fb4b35",
+                "option_name": "",
+                "order": 5
+            }
+        ],
+        "payment_for": "BUY_PACKAGE",
+        "ask_overwrite": false,
+        "overwrite_amount": 983000,
+        "token_confirmation_idx": 0,
+        "amount_idx": -1
+    }
+]
