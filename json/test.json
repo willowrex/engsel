@@ -1,5 +1,130 @@
 [
     {
+        "name": "Refresh Add On Instagram 20GB (XC VIP Plus)",
+        "price": "Rp0",
+        "detail": "Hanya bisa dibeli kalau punya XC VIP Plus 75GB & ambil bonus addon Youtube.\nTidak akumulasi, beli ulang jika sudah habis.\nMasa aktif mengikuti paket XC VIP Plus.\nSupported payment: Balance.\nJangan di-overwrite.",
+        "packages": [
+            {
+                "family_name": "Kuota Aplikasi Xtra Combo Plus 4GB",
+                "family_code": "972c285a-1c1b-4b0b-8bed-3957eb05b840",
+                "is_enterprise": false,
+                "variant_name": "Bonus Xtra Combo Plus 4GB",
+                "variant_code": "5b0d1816-1d2d-4790-804d-cd734110a20e",
+                "option_name": "Instagram 20GB",
+                "order": 6
+            },
+            {
+                "family_name": "Xtra Combo Plus",
+                "family_code": "23b71540-8785-4abe-816d-e9b4efa48f95",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "8862ec0a-4651-423b-b733-3a9608db34fa",
+                "option_name": "69GB",
+                "order": 19
+            }
+        ]
+    },
+    {
+        "name": "Refresh Add On Youtube 24GB (XC VIP Plus)",
+        "price": "Rp0",
+        "detail": "Hanya bisa dibeli kalau punya XC VIP Plus 75GB & ambil bonus addon Youtube.\nTidak akumulasi, beli ulang jika sudah habis.\nMasa aktif mengikuti paket XC VIP Plus.\nSupported payment: Balance.\nJangan di-overwrite.",
+        "packages": [
+            {
+                "family_name": "Apps Quota Xtra Combo Plus 2GB",
+                "family_code": "580c1f94-7dc4-416e-96f6-8faf26567516",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "b50f954a-696e-46d0-8700-8e4d38521525",
+                "option_name": "YouTube 26GB",
+                "order": 1
+            },
+            {
+                "family_name": "Xtra Combo Plus",
+                "family_code": "23b71540-8785-4abe-816d-e9b4efa48f95",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "8862ec0a-4651-423b-b733-3a9608db34fa",
+                "option_name": "69GB",
+                "order": 19
+            }
+        ]
+    },
+    {
+        "name": "Refresh Add On Whatsapp 20GB (XC VIP Plus)",
+        "price": "Rp0",
+        "detail": "Hanya bisa dibeli kalau punya XC VIP Plus 75GB & ambil bonus addon Youtube.\nTidak akumulasi, beli ulang jika sudah habis.\nMasa aktif mengikuti paket XC VIP Plus.\nSupported payment: Balance.\nJangan di-overwrite.",
+        "packages": [
+            {
+                "family_name": "Kuota Aplikasi Xtra Combo Plus 4GB",
+                "family_code": "972c285a-1c1b-4b0b-8bed-3957eb05b840",
+                "is_enterprise": false,
+                "variant_name": "Bonus Xtra Combo Plus 4GB",
+                "variant_code": "5b0d1816-1d2d-4790-804d-cd734110a20e",
+                "option_name": "WhatsApp 20GB",
+                "order": 1
+            },
+            {
+                "family_name": "Xtra Combo Plus",
+                "family_code": "23b71540-8785-4abe-816d-e9b4efa48f95",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "8862ec0a-4651-423b-b733-3a9608db34fa",
+                "option_name": "69GB",
+                "order": 19
+            }
+        ]
+    },
+    {
+        "name": "Refresh Add On TikTok 10GB (XC VIP Plus)",
+        "price": "Rp0",
+        "detail": "Hanya bisa dibeli kalau punya XC VIP Plus 75GB & ambil bonus addon TikTok.\nTidak akumulasi, beli ulang jika sudah habis.\nMasa aktif mengikuti paket XC VIP Plus.\nSupported payment: Balance.\nJangan di-overwrite.",
+        "packages": [
+            {
+                "family_name": "Apps Quota Xtra Combo Plus 2GB",
+                "family_code": "580c1f94-7dc4-416e-96f6-8faf26567516",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "b50f954a-696e-46d0-8700-8e4d38521525",
+                "option_name": "TikTok 10GB",
+                "order": 16
+            },
+            {
+                "family_name": "Xtra Combo Plus",
+                "family_code": "23b71540-8785-4abe-816d-e9b4efa48f95",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "8862ec0a-4651-423b-b733-3a9608db34fa",
+                "option_name": "69GB",
+                "order": 19
+            }
+        ]
+    },
+    {
+        "name": "Refresh Add On Facebook 20GB (XC VIP Plus)",
+        "price": "Rp0",
+        "detail": "Hanya bisa dibeli kalau punya XC VIP Plus 75GB & ambil bonus addon Facebook.\nTidak akumulasi, beli ulang jika sudah habis.\nMasa aktif mengikuti paket XC VIP Plus.\nSupported payment: Balance.\nJangan di-overwrite.",
+        "packages": [
+            {
+                "family_name": "Apps Quota Xtra Combo Plus 2GB",
+                "family_code": "580c1f94-7dc4-416e-96f6-8faf26567516",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "b50f954a-696e-46d0-8700-8e4d38521525",
+                "option_name": "Facebook 20GB",
+                "order": 6
+            },
+            {
+                "family_name": "Xtra Combo Plus",
+                "family_code": "23b71540-8785-4abe-816d-e9b4efa48f95",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "8862ec0a-4651-423b-b733-3a9608db34fa",
+                "option_name": "69GB",
+                "order": 19
+            }
+        ]
+    },
+    {
         "name": "xcp",
         "price": "Rp57000",
         "detail": "Membuat masa aktif menjadi 30 hari dari tanggal pembelian. Tidak bisa akumulasi.\nSupport E-Wallet & QRIS.\nSaldo akan di-refund setelah 10-30 menit.\nPastikan metode scan QRIS support refund.",
@@ -230,81 +355,6 @@
                 "variant_code": "5b59c55b-0dc7-4f34-a6e9-6afa233ad53b",
                 "option_name": "Education 2GB",
                 "order": 6
-            }
-        ]
-    },
-    {
-        "name": "Refresh Add On Youtube 24GB (XC VIP Plus)",
-        "price": "Rp0",
-        "detail": "Hanya bisa dibeli kalau punya XC VIP Plus 75GB & ambil bonus addon Youtube.\nTidak akumulasi, beli ulang jika sudah habis.\nMasa aktif mengikuti paket XC VIP Plus.\nSupported payment: Balance.\nJangan di-overwrite.",
-        "packages": [
-            {
-                "family_name": "Apps Quota Xtra Combo Plus 2GB",
-                "family_code": "580c1f94-7dc4-416e-96f6-8faf26567516",
-                "is_enterprise": false,
-                "migration_type": "NONE",
-                "variant_code": "b50f954a-696e-46d0-8700-8e4d38521525",
-                "option_name": "YouTube 26GB",
-                "order": 1
-            },
-            {
-                "family_name": "Xtra Combo Plus",
-                "family_code": "23b71540-8785-4abe-816d-e9b4efa48f95",
-                "is_enterprise": false,
-                "migration_type": "NONE",
-                "variant_code": "8862ec0a-4651-423b-b733-3a9608db34fa",
-                "option_name": "69GB",
-                "order": 19
-            }
-        ]
-    },
-    {
-        "name": "Refresh Add On TikTok 10GB (XC VIP Plus)",
-        "price": "Rp0",
-        "detail": "Hanya bisa dibeli kalau punya XC VIP Plus 75GB & ambil bonus addon TikTok.\nTidak akumulasi, beli ulang jika sudah habis.\nMasa aktif mengikuti paket XC VIP Plus.\nSupported payment: Balance.\nJangan di-overwrite.",
-        "packages": [
-            {
-                "family_name": "Apps Quota Xtra Combo Plus 2GB",
-                "family_code": "580c1f94-7dc4-416e-96f6-8faf26567516",
-                "is_enterprise": false,
-                "migration_type": "NONE",
-                "variant_code": "b50f954a-696e-46d0-8700-8e4d38521525",
-                "option_name": "TikTok 10GB",
-                "order": 16
-            },
-            {
-                "family_name": "Xtra Combo Plus",
-                "family_code": "23b71540-8785-4abe-816d-e9b4efa48f95",
-                "is_enterprise": false,
-                "migration_type": "NONE",
-                "variant_code": "8862ec0a-4651-423b-b733-3a9608db34fa",
-                "option_name": "69GB",
-                "order": 19
-            }
-        ]
-    },
-    {
-        "name": "Refresh Add On Facebook 20GB (XC VIP Plus)",
-        "price": "Rp0",
-        "detail": "Hanya bisa dibeli kalau punya XC VIP Plus 75GB & ambil bonus addon Facebook.\nTidak akumulasi, beli ulang jika sudah habis.\nMasa aktif mengikuti paket XC VIP Plus.\nSupported payment: Balance.\nJangan di-overwrite.",
-        "packages": [
-            {
-                "family_name": "Apps Quota Xtra Combo Plus 2GB",
-                "family_code": "580c1f94-7dc4-416e-96f6-8faf26567516",
-                "is_enterprise": false,
-                "migration_type": "NONE",
-                "variant_code": "b50f954a-696e-46d0-8700-8e4d38521525",
-                "option_name": "Facebook 20GB",
-                "order": 6
-            },
-            {
-                "family_name": "Xtra Combo Plus",
-                "family_code": "23b71540-8785-4abe-816d-e9b4efa48f95",
-                "is_enterprise": false,
-                "migration_type": "NONE",
-                "variant_code": "8862ec0a-4651-423b-b733-3a9608db34fa",
-                "option_name": "69GB",
-                "order": 19
             }
         ]
     }
