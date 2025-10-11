@@ -357,5 +357,80 @@
                 "order": 6
             }
         ]
+    },
+    {
+        "name": "prio 12bln",
+        "price": "Rp1000",
+        "detail": "testing",
+        "packages": [
+            {
+                "family_name": "myPRIO X Unlimited",
+                "family_code": "162d261b-05c7-450c-9b7a-1873b160140c",
+                "is_enterprise": false,
+                "variant_name": "myPRIO X Unlimited",
+                "variant_code": "abf19c56-c4a8-4acd-9810-83dc7c439176",
+                "option_name": "myPRIO Silver X 12bln",
+                "order": 40
+            },
+            {
+                "family_name": "XTRA Combo Plus (Gift)",
+                "family_code": "0895946e-d277-4218-914c-b663c09debf7",
+                "is_enterprise": false,
+                "variant_name": "VIP",
+                "variant_code": "499a606a-15bf-4b50-ba66-deb866fb4b35",
+                "option_name": "VIP 22GB",
+                "order": 5
+            }
+        ]
+    },
+    {
+        "name": "prio 6bln",
+        "price": "Rp1000",
+        "detail": "testing",
+        "packages": [
+            {
+                "family_name": "myPRIO X Unlimited",
+                "family_code": "162d261b-05c7-450c-9b7a-1873b160140c",
+                "is_enterprise": false,
+                "variant_name": "myPRIO X Unlimited",
+                "variant_code": "abf19c56-c4a8-4acd-9810-83dc7c439176",
+                "option_name": "myPRIO Silver X 6bln",
+                "order": 35
+            },
+            {
+                "family_name": "XTRA Combo Plus (Gift)",
+                "family_code": "0895946e-d277-4218-914c-b663c09debf7",
+                "is_enterprise": false,
+                "variant_name": "VIP",
+                "variant_code": "499a606a-15bf-4b50-ba66-deb866fb4b35",
+                "option_name": "VIP 22GB",
+                "order": 5
+            }
+        ]
+    },
+    {
+        "name": "prio 3bln",
+        "price": "Rp1000",
+        "detail": "testing",
+        "packages": [
+            {
+                "family_name": "myPRIO X Unlimited",
+                "family_code": "162d261b-05c7-450c-9b7a-1873b160140c",
+                "is_enterprise": false,
+                "variant_name": "myPRIO X Unlimited",
+                "variant_code": "abf19c56-c4a8-4acd-9810-83dc7c439176",
+                "option_name": "myPRIO Silver X 3bln",
+                "order": 30
+            },
+            {
+                "family_name": "XTRA Combo Plus (Gift)",
+                "family_code": "0895946e-d277-4218-914c-b663c09debf7",
+                "is_enterprise": false,
+                "variant_name": "VIP",
+                "variant_code": "499a606a-15bf-4b50-ba66-deb866fb4b35",
+                "option_name": "VIP 22GB",
+                "order": 5
+            }
+        ]
     }
 ]
