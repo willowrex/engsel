@@ -47,10 +47,10 @@
                 "family_name": "Xtra Combo Plus",
                 "family_code": "23b71540-8785-4abe-816d-e9b4efa48f95",
                 "is_enterprise": false,
-                "migration_type": "NONE",
-                "variant_code": "8862ec0a-4651-423b-b733-3a9608db34fa",
-                "option_name": "69GB",
-                "order": 19
+                "variant_name": "VIP",
+                "variant_code": "a5ba3e30-1f34-457f-82e7-976152427a7e",
+                "option_name": "VIP 143GB",
+                "order": 7
             }
         ],
         "payment_for": "BUY_PACKAGE",
@@ -389,4 +389,5 @@
         "token_confirmation_idx": 0,
         "amount_idx": -1
     }
+
 ]
