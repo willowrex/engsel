@@ -30,36 +30,6 @@
         "amount_idx": -1
     },
     {
-        "name": "Masa Aktif 30 Hari + 100MB",
-        "price": "Rp0",
-        "detail": "Membuat masa aktif menjadi 30 hari dari tanggal pembelian. Tidak bisa akumulasi.\nSupported payment: Balance.\nJangan di-overwrite.",
-        "packages": [
-            {
-                "family_name": "Xtra Combo Flex - SP After",
-                "family_code": "ccb162e6-b7cf-4162-8e3f-662e67cbb4cb",
-                "is_enterprise": false,
-                "migration_type": "NONE",
-                "variant_code": "7b1fb444-0da1-4a2e-af34-2e944ce9467b",
-                "option_name": "Paket Pelanggan Baru 100MB",
-                "order": 1
-            },
-            {
-                "family_name": "Xtra Combo Plus",
-                "family_code": "23b71540-8785-4abe-816d-e9b4efa48f95",
-                "is_enterprise": false,
-                "migration_type": "NONE",
-                "variant_code": "8862ec0a-4651-423b-b733-3a9608db34fa",
-                "option_name": "69GB",
-                "order": 19
-            }
-        ],
-        "payment_for": "BUY_PACKAGE",
-        "ask_overwrite": true,
-        "overwrite_amount": -1,
-        "token_confirmation_idx": 0,
-        "amount_idx": -1
-    },
-    {
         "name": "Masa Aktif 45 Hari + 50GB*",
         "price": "Rp1000 (refund)",
         "detail": "Membuat masa aktif menjadi 45 hari dari tanggal pembelian. Tidak bisa akumulasi.\nSaldo akan di-refund setelah 10-30 menit.\nPastikan metode scan QRIS support refund.\nSupported payment: E-wallet & QRIS.\n\n*Bonus kuota bersama 50GB untuk kartu pengelola XL Satu Home/Fiber.",
@@ -314,138 +284,18 @@
                 "order": 27
             },
             {
-                "family_name": "",
-                "family_code": "0895946e-d277-4218-914c-b663c09debf7",
+                "family_name": "Kuota Worry Free",
+                "family_code": "02378733-eb10-40b0-8d33-74d36795f360",
                 "is_enterprise": false,
                 "migration_type": "NONE",
-                "variant_code": "499a606a-15bf-4b50-ba66-deb866fb4b35",
-                "option_name": "",
-                "order": 5
+                "variant_code": "db0975a1-bd16-4976-85e6-45ece0aed3fa",
+                "option_name": "Worry-Free Quota",
+                "order": 1
             }
         ],
         "payment_for": "BUY_PACKAGE",
-        "ask_overwrite": false,
-        "overwrite_amount": 73000,
-        "token_confirmation_idx": 0,
-        "amount_idx": -1
-    },
-    {
-        "name": "Hyfe 200GB",
-        "price": "Rp 0",
-        "detail": "Hyfe Fup 200GB masa aktif 30 hari. Bisa akumulasi.\nDWYOR\nSupported payment: Balance.",
-        "packages": [
-            {
-                "family_name": "myPRIO X Unlimited",
-                "family_code": "162d261b-05c7-450c-9b7a-1873b160140c",
-                "is_enterprise": false,
-                "migration_type": "NONE",
-                "variant_code": "abf19c56-c4a8-4acd-9810-83dc7c439176",
-                "option_name": "JANGAN DI TEST PURCHASE",
-                "order": 22
-            },
-            {
-                "family_name": "",
-                "family_code": "0895946e-d277-4218-914c-b663c09debf7",
-                "is_enterprise": false,
-                "migration_type": "NONE",
-                "variant_code": "499a606a-15bf-4b50-ba66-deb866fb4b35",
-                "option_name": "",
-                "order": 5
-            }
-        ],
-        "payment_for": "BUY_PACKAGE",
-        "ask_overwrite": false,
-        "overwrite_amount": 263000,
-        "token_confirmation_idx": 0,
-        "amount_idx": -1
-    },
-    {
-        "name": "myPRIO Silver X 3bln",
-        "price": "Rp 0",
-        "detail": "myPRIO Silver X 3bln masa aktif 3 bulan. Bisa akumulasi.\nDWYOR\nSupported payment: Balance.",
-        "packages": [
-            {
-                "family_name": "myPRIO X Unlimited",
-                "family_code": "162d261b-05c7-450c-9b7a-1873b160140c",
-                "is_enterprise": false,
-                "migration_type": "NONE",
-                "variant_code": "abf19c56-c4a8-4acd-9810-83dc7c439176",
-                "option_name": "JANGAN DI TEST PURCHASE",
-                "order": 30
-            },
-            {
-                "family_name": "",
-                "family_code": "0895946e-d277-4218-914c-b663c09debf7",
-                "is_enterprise": false,
-                "migration_type": "NONE",
-                "variant_code": "499a606a-15bf-4b50-ba66-deb866fb4b35",
-                "option_name": "",
-                "order": 5
-            }
-        ],
-        "payment_for": "BUY_PACKAGE",
-        "ask_overwrite": false,
-        "overwrite_amount": 373000,
-        "token_confirmation_idx": 0,
-        "amount_idx": -1
-    },
-    {
-        "name": "myPRIO Silver X 6bln",
-        "price": "Rp 0",
-        "detail": "myPRIO Silver X 6bln masa aktif 6 bulan. Bisa akumulasi.\nDWYOR\nSupported payment: Balance.",
-        "packages": [
-            {
-                "family_name": "myPRIO X Unlimited",
-                "family_code": "162d261b-05c7-450c-9b7a-1873b160140c",
-                "is_enterprise": false,
-                "migration_type": "NONE",
-                "variant_code": "abf19c56-c4a8-4acd-9810-83dc7c439176",
-                "option_name": "JANGAN DI TEST PURCHASE",
-                "order": 35
-            },
-            {
-                "family_name": "",
-                "family_code": "0895946e-d277-4218-914c-b663c09debf7",
-                "is_enterprise": false,
-                "migration_type": "NONE",
-                "variant_code": "499a606a-15bf-4b50-ba66-deb866fb4b35",
-                "option_name": "",
-                "order": 5
-            }
-        ],
-        "payment_for": "BUY_PACKAGE",
-        "ask_overwrite": false,
-        "overwrite_amount": 553000,
-        "token_confirmation_idx": 0,
-        "amount_idx": -1
-    },
-    {
-        "name": "myPRIO Silver X 12bln",
-        "price": "Rp 0",
-        "detail": "myPRIO Silver X 12bln masa aktif 1 tahun. Bisa akumulasi.\nDWYOR\nSupported payment: Balance.",
-        "packages": [
-            {
-                "family_name": "myPRIO X Unlimited",
-                "family_code": "162d261b-05c7-450c-9b7a-1873b160140c",
-                "is_enterprise": false,
-                "migration_type": "NONE",
-                "variant_code": "abf19c56-c4a8-4acd-9810-83dc7c439176",
-                "option_name": "JANGAN DI TEST PURCHASE",
-                "order": 40
-            },
-            {
-                "family_name": "",
-                "family_code": "0895946e-d277-4218-914c-b663c09debf7",
-                "is_enterprise": false,
-                "migration_type": "NONE",
-                "variant_code": "499a606a-15bf-4b50-ba66-deb866fb4b35",
-                "option_name": "",
-                "order": 5
-            }
-        ],
-        "payment_for": "BUY_PACKAGE",
-        "ask_overwrite": false,
-        "overwrite_amount": 983000,
+        "ask_overwrite": true,
+        "overwrite_amount": -1,
         "token_confirmation_idx": 0,
         "amount_idx": -1
     }
