@@ -1,9 +1,9 @@
 {
-    "family_name": "XTRA Combo Plus (Gift)",
-    "family_code": "0895946e-d277-4218-914c-b663c09debf7",
-    "is_enterprise": false,
-    "migration_type": "NONE",
-    "variant_code": "499a606a-15bf-4b50-ba66-deb866fb4b35",
-    "option_name": "VIP 66GB",
-    "order": 2
+    "family_name": "Umrah & Hajj",
+    "family_code": "4351cc43-03ae-4fcf-a3a8-675e0a9cc16e",
+    "is_enterprise": null,
+    "migration_type": null,
+    "variant_code": "eb8100b8-7866-4fad-86bd-5e550b4d4aac",
+    "option_name": "Internet Haji & Umrah 20GB+5GB",
+    "order": 1
 }
